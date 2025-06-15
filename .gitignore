@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.pkl
+*.h5
+*.pt
+*.onnx
+*.log
+*.db
+data/
